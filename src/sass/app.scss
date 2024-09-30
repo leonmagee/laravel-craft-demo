@@ -1,0 +1,9 @@
+@import "bootstrap/scss/bootstrap";
+
+.app-main {
+    background-color: lighten(cornflowerblue, 30%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
